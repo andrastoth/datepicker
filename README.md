@@ -11,6 +11,6 @@ User friendly date Picker
 - configurable weekdays name
 - configurable months name
  
-Demo : http://atandrastoth.co.uk/simplepicker/
+Demo : http://atandrastoth.co.uk/datepicker/
 
 Author: Tóth András
