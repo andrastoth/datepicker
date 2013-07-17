@@ -1,0 +1,38 @@
+{
+    "name": "simplepicker",
+    "title": "jQuery simplepicker",
+    "description": "jQuery plugin for table handling.",
+    "keywords": [
+        "date",
+        "datepicker",
+        "styling",
+        "dateformat",
+        "easy"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Tóth András",
+        "url": "https://github.com/andrastoth/simplepicker/master/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Tóth András",
+            "email": "atandrastoth@gmail.com",
+            "url": "http://atandrastoth.co.uk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/andrastoth/simplepicker/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/andrastoth/simplepicker/issues",
+    "homepage": "http://atandrastoth.co.uk/webdesign",
+    "demo": "http://atandrastoth.co.uk/simplepicker",
+    "docs": "http://atandrastoth.co.uk/simplepicker",
+    "download": "https://github.com/andrastoth/simplepicker/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
