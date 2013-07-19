@@ -29,8 +29,8 @@
     ],
     "bugs": "https://github.com/andrastoth/simplepicker/issues",
     "homepage": "http://atandrastoth.co.uk/webdesign",
-    "demo": "http://atandrastoth.co.uk/simplepicker",
-    "docs": "http://atandrastoth.co.uk/simplepicker",
+    "demo": "http://atandrastoth.co.uk/datepicker",
+    "docs": "http://atandrastoth.co.uk/datepicker",
     "download": "https://github.com/andrastoth/simplepicker/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.7"
