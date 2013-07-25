@@ -9,7 +9,7 @@ if(empty($a)) session_start();
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <link rel="stylesheet" href="css/style.css"/>
-    <link rel="stylesheet" href="css/simplepicker-1.0.0.min.css"/>
+    <link rel="stylesheet" href="css/simplepicker-1.1.0.min.css"/>
     <link type ="text/css" rel="stylesheet" href="css/codemirror.css" charset="utf-8" media="all">  
     <link type ="text/css" rel="stylesheet" href="css/monokai.css" charset="utf-8" media="all"> 
     <script type="text/javascript"  src="js/jquery-1.9.0.1.min.js"></script>  
@@ -19,7 +19,7 @@ if(empty($a)) session_start();
     <script src="js/javascript.js" type="text/javascript" charset="utf-8" ></script>
     <script src="js/htmlmixed.js" type="text/javascript" charset="utf-8" ></script>
     <script src="js/php.js" type="text/javascript" charset="utf-8" ></script>
-    <script type="text/javascript"  src="js/simplepicker-1.0.0.min.js"></script>
+    <script type="text/javascript"  src="js/simplepicker-1.1.0.min.js"></script>
     <script type="text/javascript"  src="js/script.js"></script>
 </head>
 <body>
@@ -27,7 +27,7 @@ if(empty($a)) session_start();
         <h1>simplePicker jQuery plugin</h1>
         <a href="https://github.com/andrastoth" class="cButton">Hompage on Github</a>
         <a href="http://atandrastoth.co.uk/webdesign" class="cButton">My Hompage</a>
-        <a href="https://github.com/andrastoth/simplepicker/archive/master.zip" class="cButton">Download from Github</a><br> <br>
+        <a href="https://github.com/andrastoth/datepicker/archive/master.zip" class="cButton">Download from Github</a><br> <br>
         <div class = "dateDemo">
         <p>Date format example : Hungarian - dark style</p><br> 
         <input type="text" id="d-hun" value="" autocomplete="off"><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
@@ -40,9 +40,9 @@ if(empty($a)) session_start();
                 <textarea name="htmlCode">
 &lt;html&gt;
 &lt;head&gt;
-    &lt;link rel="stylesheet" href="css/simplepicker-1.0.0-1.0.0.min.css"/&gt;
+    &lt;link rel="stylesheet" href="css/simplepicker-1.1.0.min.css"/&gt;
     &lt;script type="text/javascript"  src="js/jquery-1.9.0.1.min.js"&gt;&lt;/script&gt;
-    &lt;script type="text/javascript"  src="js/simplepicker-1.0.0-1.0.0.min.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript"  src="js/simplepicker-1.1.0.min.js"&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
 &lt;input type="text" id="d-eng" value="" autocomplete="off">

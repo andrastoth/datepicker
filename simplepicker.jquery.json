@@ -7,9 +7,10 @@
         "datepicker",
         "styling",
         "dateformat",
-        "easy"
+        "easy",
+        "weeks"
     ],
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": {
         "name": "Tóth András",
         "url": "https://github.com/andrastoth/simplepicker/master/AUTHORS.txt"

@@ -6,9 +6,9 @@ $(document).ready(function() {
 		Ireland: Monday
 		New Zealand: Sunday
 		South Africa: Sunday
-		United Kingdom: Monday
+		United Kingdom: Monday ? Sunday
 		United States: Sunday
-*/
+	*/
 	$('#d-am').simplePicker({
 		style: 'dark',
 		firstday: 0,
@@ -22,7 +22,7 @@ $(document).ready(function() {
 
 	$('#d-eng').simplePicker({
 		style: 'white',
-		firstday: 1,
+		firstday: 0,
 		days: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
 		months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
 		delimiter: '/',

@@ -10,7 +10,11 @@ User friendly date Picker
 - configurable dateformat
 - configurable weekdays name
 - configurable months name
- 
+
+
+*v1.1.0 
+Adding Week of the year.
+
 Demo : http://atandrastoth.co.uk/datepicker/
 
 Author: Tóth András
