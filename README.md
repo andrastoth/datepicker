@@ -12,7 +12,7 @@ User friendly date Picker
 - configurable months name
 
 
-*v1.1.0 
+*v1.2.0 
 Adding Week of the year.
 
 Demo : http://atandrastoth.co.uk/datepicker/
