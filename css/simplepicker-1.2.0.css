@@ -24,7 +24,7 @@
     padding: 4px;
     text-align: center;
 }
-.datePicker-dark .previous,
+.datePicker-dark .prev,
 .datePicker-dark .next {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
@@ -125,7 +125,7 @@
     padding: 4px;
     text-align: center;
 }
-.datePicker-white .previous,
+.datePicker-white .prev,
 .datePicker-white .next {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     opacity: 0.5;
